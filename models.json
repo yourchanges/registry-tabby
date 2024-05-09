@@ -134,7 +134,7 @@
     "urls": [
       "https://huggingface.co/TheBloke/deepseek-coder-33B-instruct-GGUF/blob/main/deepseek-coder-33b-instruct.Q3_K_M.gguf"
     ],
-    "sha256": "79588d60e277c2749d401872c9f204bf2ecad4c950e42c46c1f6d1fc411057c6"
+    "sha256": "856045eb378061efabeff60c9c68812627df93e71636a0af609427dec2003ad1"
   },
   {
     "license_name": "Gemma License",
